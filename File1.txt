@@ -10,8 +10,9 @@ THIS IS MY FIRST GIT FILE
 	<body>
 		You are now entering in git
 		Login:<input></input>
-		UserName:<input></input>
-		Password:<input></input>
+		UserName:
+		Password:
+		Submit: <input type="submit"></input>
 	</body>
 
 </html>
