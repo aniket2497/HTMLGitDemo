@@ -3,7 +3,9 @@ THIS IS MY FIRST GIT FILE
 <html>
 	<head>
 	<h1>Welcome Aniket Sharma</h1>
-	 -----hello this is git demo-----
+	-----hello this is git demo----
+	<title>Git Bash</title>
+
 	</head>
 	<body>
 		You are now entering in git
